@@ -1,5 +1,5 @@
 # hello-world
-A tutorial following repository for learning github
+
 I'm rusty. thats an understatement.
 I used to code.
 I learned a lot
